@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3i0012/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部九
+  hash: sha256:0bce925b640ea8fd115d42e34eba7e8dcf8661f4ed3df866ab1767c420beaed8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3i0012_WYG_000-1a, image: WYG0843/WYG0843-0655a.png}
+body:
+  text: 墨史譜録類一器物之屬提要臣等謹案墨史三卷元陸友撰友字友仁吳縣人其書集古來精於製墨者考其事蹟勒為一書於魏得韋誕一人於晉得張金一人於劉宋得張永一人於唐得李陽冰以下十九人於宋得柴珣以下一百三十餘人於金得劉法楊文秀二人又詳載高麗契丹西域之墨附録雜記二十五則皆墨之典故也其間搜羅隱僻博贍可觀大率采自宋人說部者居多雖其出處不能盡詳而薈稡成編實可為文房故事之助其論奚廷圭非李廷圭一條據墨經載易水奚鼐之子超冪之子起又别叙歙州李超超子廷圭以下世家是族有奚李之異居有易歙之分惟其名偶同足破世所傳江南賜姓李氏之說為妄亦頗有資於考據案禆傳載友仁生市㕓闤闠間父以市布為業獨能異其所好攻苦於學善為歌詩工八分隸楷博極羣物奎章閣鍳書博士柯九思侍書學士虞集服其精識相與言於文宗未及任用而二人去職友亦南歸自號硯北生著硯史墨史印史所為詩文有杞菊軒藁今皆亡佚惟研北雜志及是書尚存云乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:3f12dee86c52316d99d9d3067b7cf2ef46a2dfee2c43b1071a0b9f36765bd9b6
+metadata:
+  title: 墨史
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:17:33.084373'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3i0012/KR3i0012_000.txt
+hash: sha256:beb12f5748279d482a90f5a75f2fe5b1089e5f32e863b5242674b259358c1ba3
